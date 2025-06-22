@@ -35,9 +35,7 @@ Hi, I'm **Pawan Maskey** — a Computer Science student at Aalborg University pa
 
 ---
 
-## 📈 Contribution Graph
-
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=maskeyp&bg_color=0d1117&color=00c3ff&line=00c3ff&point=ffffff&area=true&hide_border=true)
+![Snake animation](https://github.com/maskeyp/maskeyp/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
