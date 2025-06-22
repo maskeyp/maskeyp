@@ -1,11 +1,11 @@
 # 💫 About Me
-Hi, I'm **Pawan Maskey** – a Computer Science student at Aalborg University with a passion for building impactful software. I work across mobile, backend, and AI, and I'm always exploring new technologies.
+Hi, I'm **Pawan Maskey** — a Computer Science student at Aalborg University passionate about building meaningful software. I work across mobile, backend, and AI, and I’m always exploring new technologies.
 
-🔭 Currently working with **Flutter**, **Python**, and backend systems  
-🤖 Exploring **AI/ML** projects — NLP, recommendation systems, automation  
-⚙️ Skilled in software architecture, Git workflows, and RESTful APIs  
-🌐 Interested in **DevOps**, **CI/CD**, **Azure**, and **Power BI**  
-📚 Always learning, always coding
+🔭 Currently focused on **Flutter**, **Python**, and backend services  
+🤖 Building AI/ML apps — NLP, recommendation systems, scam detection  
+⚙️ Skilled in Git workflows, clean architecture, RESTful APIs  
+🚀 Exploring **DevOps**, **CI/CD**, **Azure**, and **Power BI**  
+📚 Always learning. Always coding.
 
 ---
 
@@ -30,14 +30,14 @@ Hi, I'm **Pawan Maskey** – a Computer Science student at Aalborg University wi
 ## 📊 GitHub Stats
 
 ![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maskeyp&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)  
-![Pawan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=maskeyp&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maskeyp&theme=tokyonight&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maskeyp&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
 
 ## 📈 Contribution Graph
 
-![Contribution Graph](https://github-contributions-api.deno.dev/maskeyp.svg?scheme=tokyo-night)
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=maskeyp&bg_color=0d1117&color=00c3ff&line=00c3ff&point=ffffff&area=true&hide_border=true)
 
 ---
 
