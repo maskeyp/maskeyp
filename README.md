@@ -35,7 +35,15 @@ Hi, I'm **Pawan Maskey** — a Computer Science student at Aalborg University pa
 
 ---
 
-![GitHub Contribution Calendar](https://github-readme-stats.vercel.app/api?username=maskeyp&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=issues,prs)
+<!-- GitHub Readme Stats - shows commits, repos, languages -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maskeyp&theme=tokyonight&show_icons=true)
+
+<!-- GitHub Streak - contribution streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maskeyp&theme=tokyonight)
+
+<!-- GitHub Contribution Calendar -->
+![GitHub Calendar](https://github-readme-stats.vercel.app/api?username=maskeyp&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=issues,prs)
+
 
 
 ---
