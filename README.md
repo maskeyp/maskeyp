@@ -35,7 +35,7 @@ Hi, I'm **Pawan Maskey** — a Computer Science student at Aalborg University pa
 
 ---
 
-(https://activity-graph.herokuapp.com/graph?username=maskeyp&theme=react-dark&area=true&hide_border=true)
+![GitHub Contribution Calendar](https://github-readme-stats.vercel.app/api?username=maskeyp&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=issues,prs)
 
 
 ---
